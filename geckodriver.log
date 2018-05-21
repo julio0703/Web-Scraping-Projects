@@ -1,0 +1,11 @@
+1526927284980	geckodriver	INFO	geckodriver 0.19.1
+1526927284986	geckodriver	INFO	Listening on 127.0.0.1:51499
+1526927285410	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/9g/c3klgx7j76jcb8p89fkhkqgm0000gn/T/rust_mozprofile.EMdNHUWhZYeo"
+2018-05-21 13:28:07.349 plugin-container[1388:47513] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xae3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526927287840	Marionette	INFO	Listening on port 51510
+1526927288137	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-21 13:28:08.579 plugin-container[1389:47594] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaa3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
